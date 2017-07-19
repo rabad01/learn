@@ -1,0 +1,2 @@
+class Mio < ApplicationRecord
+end
