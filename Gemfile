@@ -54,7 +54,7 @@ gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 gem 'compass-rails' #, '>= 1.0.alpha.0'
 gem 'figaro'
 # gem 'gibbon'
-# gem 'google_drive'
+gem 'google_drive'
 gem 'high_voltage'
 gem 'simple_form'
 gem 'zurb-foundation'
